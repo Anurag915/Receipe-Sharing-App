@@ -6,11 +6,11 @@ import TopNavBar from './components/TopNavBar';
 import Footer from './components/Footer';
 
 //import pages
-import Home from './pages/Home';
+import Home from './pages/home';
 import Register from './pages/Register';
 import Login from './pages/Login';
 import Help from './pages/Help';
-import CreateRecipe from './pages/CreateRecipe';
+import CreateRecipe from './pages/createRecipe';
 import SavedRecipes from './pages/SavedRecipes';
 import UpdateRecipe from './pages/UpdateRecipe';
 import Logout from './pages/Logout';
